@@ -1,4 +1,4 @@
-👋 Hi, I’m Angel Zhong <br>
+👋 Hi, I’m Angel Zhong <br> (my old Github is Yingtong-Z)
 💼 Analyst at Econsult Solutions <br>
 🎓 Graduated with MS in Social Policy & Data Analytics, with GIS and Spatial Analysis Certificate, from University of Pennsylvania <br>
 🌐 Interested in data, maps, tech, urban planning <br>
