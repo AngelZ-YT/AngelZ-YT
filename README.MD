@@ -1,4 +1,4 @@
-👋 Hi, I’m Angel Zhong
+👋 Hi, I’m Angel Zhong <br>
 💼 Analyst at Econsult Solutions 
 🎓 Graduated with MS in Social Policy & Data Analytics, with GIS and Spatial Analysis Certificate, from University of Pennsylvania
 🌐 Interested in data, maps, tech, urban planning
